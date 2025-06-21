@@ -21,7 +21,7 @@ const about_content =
       <p>This is a work born out of both intimacy and distance. At times, it moves like fog, soft, disoriented, barely there. \
       At others, it roots itself in the body, pulsing with grief or tenderness. Rather than build a finished narrative, \
       I offer a terrain. You are invited to walk it, feel the edges, sense the lines. This is not a tribute. \
-      It is an attempt to touch something that has always been partially out of reach.</p>\'
+      It is an attempt to touch something that has always been partially out of reach.</p>'
   };
 
   const about_leah =
