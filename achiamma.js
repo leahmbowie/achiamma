@@ -21,11 +21,7 @@ const about_content =
       <p>This is a work born out of both intimacy and distance. At times, it moves like fog, soft, disoriented, barely there. \
       At others, it roots itself in the body, pulsing with grief or tenderness. Rather than build a finished narrative, \
       I offer a terrain. You are invited to walk it, feel the edges, sense the lines. This is not a tribute. \
-      It is an attempt to touch something that has always been partially out of reach.</p>\
-      <br/><p><i>Note on Accessibility: While this project includes text descriptions for all video and audio components, \
-      I acknowledge that the \
-      the videos currently lack subtitles or transcripts due to sensory limitations in my hearing. I hope to address this \
-      in a future iteration and welcome collaboration in making this work more accessible.</i></p>'
+      It is an attempt to touch something that has always been partially out of reach.</p>\'
   };
 
   const about_leah =
