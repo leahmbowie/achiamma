@@ -15,8 +15,7 @@ const about_content =
       the body-tentative, porous, uncertain. Some gestures are rehearsed while others dissolve before they arrive. Parts \
       of the map are coded generatively, allowing memory to reconfigure itself with each view. The limitations of \
       my hearing, its fragility, its distortion, became collaborators in the process. They shaped the tone, the tempo, the form.</p> \
-      <p>Viewers are invited to navigate the map freely. Sounds can be played and overlaid onto videos, creating personal \
-      combinations of image and tone, simulating the layered, sometimes dissonant nature of memory itself. The map offers an \
+      <p>Viewers are invited to navigate the map freely. It offers a non-linear \
       open structure: one that allows for drift, repetition, interruption, and return.</p>\
       <p>This is a work born out of both intimacy and distance. At times, it moves like fog, soft, disoriented, barely there. \
       At others, it roots itself in the body, pulsing with grief or tenderness. Rather than build a finished narrative, \
