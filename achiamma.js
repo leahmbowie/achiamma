@@ -371,7 +371,7 @@ const media = [
       src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Meh-Gassee_two-voices.mp3",
       caption: "මේ ගස් බොහො",
       description: '<p>මේ ගස් බොහො, මල් පිපි තිබේ, පටේ පටේ මල්, හැරිම ලස්සනයි</p>\
-      <p>This is a Sinhala song my father sang to me when I was little. I wonder if you knew it too, \
+      <p>This is a piano composition based on a Sinhala song my father sang to me when I was little. I wonder if you knew it too, \
       if, perhaps, when I was in Sri Lanka, barely a breath old, you hummed it softly to lull me to sleep. \
       I wrote the score from memory, let it unfold through improvisation, and wove in a second voice.\
       I don’t know if I got it right, I only know that it felt like a way to find you.<p>'
