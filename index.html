@@ -5,6 +5,27 @@
   <title>Achiamma</title>
   <link rel="stylesheet" href="lightbox.css">
 </head>
+<script>
+  window.onload = function() {
+    const modalShown = sessionStorage.getItem('introModalShown');
+    if (!modalShown) {
+      document.getElementById('introModal').style.display = 'block';
+      sessionStorage.setItem('introModalShown', 'true');
+    }
+  };
+
+  function closeModal() {
+    document.getElementById('introModal').style.display = 'none';
+  }
+
+  // Optional: close when clicking outside modal content
+  window.onclick = function(event) {
+    const modal = document.getElementById('introModal');
+    if (event.target === modal) {
+      modal.style.display = "none";
+    }
+  };
+</script>
 
 <body>
 
@@ -18,6 +39,23 @@
     <a href="#" id="about-leah">About Leah</a>
   </div>
 </div>
+
+<div id="introModal" class="modal">
+  <div class="modal-content">
+    <span class="close-btn" onclick="closeModal()">&times;</span>
+    <h3>You are entering the Achiamma archive</h3>
+    <p><i>This is not a timeline. It is a map, a listening field.</i></p>
+    <p>Begin anywhere.</p>
+    <p>Click on the coloured rectangles: each one opens a memory, a question, a sound.<br/>
+    Some are videos, some are songs, some are fragments of story.</p>
+    <p>Move carefully. Follow your curiosity, or your breath.<br/>
+    If emotions arise, slow down. Listen. Leave if necessary.</p>
+    <p>You do not need to see everything.<br/>
+    Let what stays with you, stay.</p>
+    <p><i>The map reconfigures itself with each visit.</i></p>
+  </div>
+</div>
+
 <div class="map-container" id="map-container">
   <img
     src="https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/06/background_1.jpg"
