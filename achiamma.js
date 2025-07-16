@@ -8,16 +8,16 @@ const about_content =
       by time and distance, and now, by my own hearing loss. </p> \
       <p>What emerged instead is a visual map. A cartography of a fragmented inheritance. Here, scenes become sketches. \
       Sounds become descriptions. The resulting gaps are not filled, they are rendered visible. This project embraces \
-      incompletion, not as failure, but as an honest expression of longing and dislocation.</p> \
+      incompleteness, not as failure, but as an honest expression of longing and dislocation.</p> \
       <p>The work draws on sensory fragments: video textures, written descriptions, sonic impressions \
       composed and recorded in shifting states of remembering, seeing and hearing. Performance becomes a method of \
       entering memory through \
-      the body-tentative, porous, uncertain. Some gestures are rehearsed while others dissolve before they arrive. Parts \
+      the body, tentative, porous, uncertain. Some gestures are rehearsed while others dissolve before they arrive. Parts \
       of the map are coded generatively, allowing memory to reconfigure itself with each view. The limitations of \
       my hearing, its fragility, its distortion, became collaborators in the process. They shaped the tone, the tempo, the form.</p> \
       <p>Viewers are invited to navigate the map freely. It offers a non-linear \
       open structure: one that allows for drift, repetition, interruption, and return.</p>\
-      <p>This is a work born out of both intimacy and distance. At times, it moves like fog, soft, disoriented, barely there. \
+      <p>This is a work born out of both intimacy and distance. At times, it moves like fog, soft, diffuse, barely there. \
       At others, it roots itself in the body, pulsing with grief or tenderness. Rather than build a finished narrative, \
       I offer a terrain. You are invited to walk it, feel the edges, sense the lines. This is not a tribute. \
       It is an attempt to touch something that has always been partially out of reach.</p>'
@@ -27,7 +27,7 @@ const about_content =
     {
           description: '<p><strong>Leah Muriel Bowie</strong> is a Swiss–Sri Lankan interdisciplinary artist based in Switzerland and in London.</p>\
             <p>Leah\'s work moves fluidly across languages, cultures, and disciplines, merging technology, sustainability, \
-            cultural and social studies, creative writing, and psychology into multidimensional works of art.</p>\
+            cultural studies and social theory, creative writing, and psychology into multidimensional works of art.</p>\
             <p>Rooted in a diasporic, post-interdisciplinary, and post-colonial perspective, their practice engages with \
             trauma-informed methodologies and alternative epistemologies, centering ways of knowing that are embodied, relational, \
             non-linear, and often silenced.</p>\
@@ -77,13 +77,13 @@ const media = [
       type: "image",
       src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/6017/2025/01/PICT0130-scaled.jpg",
       caption: "1982: Me and Achiamma",
-      description: `<p>This is the only known photo of me and my grandmother, Achiamma. I was two years old. We are sitting on
+      description: `<p>This is the only known photo of my grandmother, Achiamma, and me. I was two years old. We are sitting on
       the veranda of her home in Sri Lanka. I don’t remember this moment—not the weight of her sari, the smell of the morning,
       the feel of her hands. But the image remains.</p>
       <p>Her expression is calm, maybe watchful. Mine is in motion, already blurring into elsewhere. This photograph has
       become more than memory; it is a placeholder for everything I never got to know. It holds a relationship that existed
       mostly in fragments—in a single meeting, in stories not passed down, in the silence that followed.</p>
-      <p>Time has tinted the image yellow. A color of age, of distance, of fading. But in that fading, something lingers.
+      <p>Time has tinted the image yellow. A colour of age, of distance, of fading. But in that fading, something lingers.
       A trace of presence. A root.</p>`
   },
   {
@@ -92,20 +92,20 @@ const media = [
       caption: "Glossary for a Language Never Learned",
       description: '<p>identity (noun)<br/>\
           1. a skin to slide into before breakfast<br/>\
-          2. a skin others choose on first sight</p>\
+          2. a skin others choose upon first sight</p>\
           <p>culture (noun)<br/>\
           inherited, rejected, reinvented</p>\
           <p>time (noun)<br/>\
           1. a multilayered resource that unfolds into infinite dimensions<br/>\
-          2. experience, loop, re-visit, re-experience, re-imagine, invent </p>\
+          2. experience, loop, re-visit, re-experience, re-imagine, re-invent </p>\
           <p>translation (noun)<br/>\
-          what gets dropped between time, tongues and sounds</p>\
+          what gets dropped between time, tongues, and sounds</p>\
           <p>language (noun)<br/>\
           a tool, a prison, a bridge</p>\
           <p>home (noun)<br/>\
           a wish, folded small</p>\
           <p>roots (noun/plural)<br/>\
-          more real in dreams that in documents</p>'
+          more real in dreams than in documents</p>'
   },
   {
       type: "image",
@@ -118,7 +118,7 @@ const media = [
           ඔවුන් මට නමක් දුන්නා. මට මගේ එක නැහැ.<br/>\
           Ich bin...<br/>\
           Je suis...<br/>\
-          Ich passe nicht in einen Satz<br/>\
+          Ich passe nicht in einen Satz.<br/>\
           මම මෙහි පදිංචි වූයේ... <br/>\
           நான் எங்கே இருக்கிறேன்?</p>\
           <p><i>This isn’t translation. It’s communication breakdown.</i></p>'
@@ -132,12 +132,12 @@ const media = [
       before it, brush in hand, not to capture a likeness, but to trace a memory I never owned, only inherited.</p>\
       <p>What unfolds is not a portrait, but an invocation. A flicker of film, the scent of roasting curry powder, \
       the ache of a name unspoken. Thirty-nine years after her death, I search for her not in photographs or family \
-      stories, I search for what was omitted. In the hush between, in the in-between. In the gap where her face should have been. </p>\
-      <p>The land I carry inside me is not just terrain, it is wound and wonder: The hill country of Sri Lanka with its\
-      tea estates, is where my bloodline twists: a planter and a tea picker getting married, a coloniser and a colonised, \
+      stories. I search for what was omitted. In the hush between, in the in-between. In the gap where her face should have been. </p>\
+      <p>The land I carry inside me is not just terrain, it is wound and wonder: the hill country of Sri Lanka with its\
+      tea estates is where my bloodline twists: a planter and a tea picker getting married, a coloniser and a colonised, \
       one body holding both. \
       My grandfather’s beagles roam celluloid forests. My grandmother’s hands, swift and weathered, remain unseen. Her \
-      labor perfumed the empire’s porcelain cups, but history left her without a name. </p> \
+      labour perfumed the empire’s porcelain cups, but history left her without a name. </p> \
       <p>This opening act is a reckoning, through pigment, breath, and silence. A ritual return to the plantation’s shadows, \
       to the tangled rootwork of inheritance. To speak of love, violence, longing, and lineage in one gesture. A home far \
       away from home. A past that refuses to rest.</p>'
@@ -157,9 +157,9 @@ const media = [
       I return to the canvas, to the image I no longer believe in. "Who are you?" \
       You were once trusted with my infant body, held long enough to be photographed, but not remembered.</p>\
       <p>I look again. I choose. I repaint.</p>\
-      This is not restoration, it is re-creation. An undoing of misrecognition. A second beginning. I paint the woman whose \
+      <p>This is not restoration, it is re-creation. An undoing of misrecognition. A second beginning. I paint the woman whose \
       eyes hold warmth, whose silence hums with a forgotten song. The brush paints where history fails.</p>\
-      As the painting nears completion, I begin to hear you, maybe not your voice, but something close. A vibration, a tune \
+      <p>As the painting nears completion, I begin to hear you, maybe not your voice, but something close. A vibration, a tune \
       carried across time.</p>\
       <p>Achiamma, are you there?</p>'
   },
@@ -173,7 +173,7 @@ const media = [
       fingers, my hands, my body. A quiet attempt to make contact.</p>\
       <p>The painting has dried, but the bond has not.</p>\
       <p>Six weeks passed before the surface set, before I dared to touch what I had made. And now, I notice. I see you. \
-      Not from memory, but from knowing. From knowing what smoke and time and open \
+      Not from memory, but from knowing. From knowing what smoke, time, and open \
       fire do to the women who cook every day in their lives.</p>\
       <p>There is a gentleness in your gaze that I did not intend, but now I need. I need you to be soft with me while I \
       heal the roots that ache beneath my skin. The wounds I inherited. The hunger I can’t name.</p>\
@@ -187,16 +187,16 @@ const media = [
       type: "video",
       src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7a66d3ad-2769-4fa2-8ffb-b2fd00f4601d/8ca0a806-4112-443f-81af-b2fd00f46024-6ae5ef49-d346-4fdb-8fd1-b2fe0104cf9e.mp4",
       caption: "Achiamma Film Scene 5 (by Alan and Leah Muriel Bowie)",
-      description: '<p>The fifth scene of Achiamma is a crossing of timelines, a layered choreography of inheritance and loss,</p>\
-      projected across decades is my grandfather’s film footage, shot between 1930 and 1960. Animals moving through the lens of empire: \
+      description: '<p>The fifth scene of Achiamma is a crossing of timelines, a layered choreography of inheritance and loss,\
+      projected across decades is my grandfather\’s film footage, shot between 1930 and 1960. Animals moving through the lens of empire: \
       beagles panting at the edge of the frame, a leopard pacing through a garden, the landscape lush and watchful. \
       Sometimes, people appear. Sometimes, they disappear before they are seen.</p>\
       Over this colonial gaze, I place myself, shadowed figures behind a screen. Variations of me. Bodies tracing lines, moving in \
-      response rather than re-enactment. Many selves, flickering in and out of shape. My past performance, drawn from \
+      response rather than re-enactment. Many selves, flickering in and out of shape. A past performance, drawn from \
       my personal archive, becomes a form of presence I could not offer live because my hearing would not let me.</p>\
       <p>The screen becomes palimpsest. Archive and performance, empire and echo, intention and interference. My body interrupts \
       the image, not to reclaim it, but to add to it.</p>\
-      <p>The soundtrack carries Achiamma’s voice, layered with drum rhythms, berimbau and violin. A composition shaped by Carnatic \
+      <p>The soundtrack carries Achiamma\’s voice, layered with drum rhythms, berimbau and violin. A composition shaped by Carnatic \
       memory, but fractured through distance and diasporic noise. This is not accompaniment. It is counterpoint. A polyphony of \
       fragments searching for relation.</p>\
       <p>This was meant to be the main scene of the film.</p>\
@@ -209,17 +209,17 @@ const media = [
       src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ca4c088a-f060-4303-8088-b284013e3cf7/c1d16c25-e111-4363-94b9-b284013e3d03-cd0b4398-3b66-4ec4-877b-b2e40126735d.mp4",
       caption: "Connect, connect, connect",
       description: '<p>This is a meditation on connection across time, memory, and lineage. In this fragment, \
-      strands of hair grow from my head towards my Achiamma. Delicate yet persistent threads that bind us. \
+      strands of hair grow from my head towards Achiamma. Delicate yet persistent threads that bind us. \
       The animation is overlaid with a poem exploring intergenerational bonds, and accompanied by a song in homage to \
       Meredith Monk, whose work weaves together voice, spirit, and continuity. Together, image, word, and sound form \
-      a ritual, one that honors the intimacy between past and present, and gestures toward a shared future.</p>'
+      a ritual, one that honours the intimacy between past and present, and gestures toward a shared future.</p>'
   },
 
   {
       type: "video",
       src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9e6711dd-80ab-4781-a505-b27e01520874/e46afa96-101d-44ce-b8c7-b27e01520880-c8646bda-c0ad-4a2b-8d19-b2e4010dce3d.mp4",
       caption: "Lineage",
-      description: '<p>My lineage is filled <br/>\
+      description: '<p>My lineage is filled<br/>\
         with inner landscapes.</p>\
         <p>People\'s faces<br/>\
         mirrored in rivers and lakes.<br/>\
@@ -244,13 +244,13 @@ const media = [
       caption: "Lines: A Performance",
       description: '<p>\
       My shadow becomes a witness.<br/>\
-      as I draw lines, slow, uncertain.<br/>\
+      As I draw lines, slow, uncertain.<br/>\
       They emerge in silence, a choreography of marks,<br/>\
       etched in light and body.</p>\
       <p>Each line is a thread, <br/>\
       a question,<br/>\
       a reaching gesture.</p>\
-      <p>Lines stretching across the screen like veins,<br/>\
+      <p>Lines stretch across the screen like veins,<br/>\
       mapping a terrain between past, present, and future<br/>\
       between my body and hers. <br/>\
       Achiamma.</p>\
@@ -293,7 +293,7 @@ const media = [
         <p>Why does the birthplace of my parents matter?</p>\
         <p>As I listen, my expression shifts, sometimes subtly, sometimes not. The camera captures these responses \
         in real time: the flickers of emotion, the pauses, the discomfort, the curiosity.</p>\
-        Each question invites not an answer, but a moment of reflection.</p>\
+        <p>Each question invites not an answer, but a moment of reflection.</p>\
         <p>The voice of my Sri Lankan grandmother, whom I never met, hovers invisibly behind these questions. Her \
         absence is part of this exploration, a presence that shapes how I move through identity, memory, and belonging.</p>\
         <p>This video invites you, too, to listen.</p>\
@@ -305,7 +305,7 @@ const media = [
       src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/6017/2025/02/Achiamma_P1.mp3",
       caption: "Achiamma Theme Song",
       description: '<p>This piece began as a question, a quiet reaching across time toward Achiamma. \
-        I never knew the music she truly loved, but I imagined her sitting still, listening to the soft curl of Tamil \
+        I never knew what music she truly loved, but I imagined her sitting still, listening to the soft curl of Tamil \
         melodies, the rhythm of drums echoing through narrow streets, the voices rising and falling like breath. \
         Her oil portrait sits across from where I compose, and in her expression, I sometimes imagine a trace of curiosity, \
         perhaps even kindness. I like to think she wouldn’t mind this attempt, though that, of course, is a story I tell myself.</p>\
@@ -314,8 +314,8 @@ const media = [
         but resonant. So I listened. I listened to voices speaking to each other in melody, \
         telling stories with longing and fire. I listened to drums that didn’t just keep time but carved space, created form. \
         I listened to the air between the notes and the drone beneath it all, a thread tying sound to silence.</p>\
-        <p>Carnatic music revealed itself slowly, with its triad of <i>sruti</i> (tonal center), <i>svara</i> (melodic motion), and <i>raaga</i> \
-        (rhythmic cycle). These weren’t just technical elements; they were scaffolding for emotion. Even within their structure, \
+        <p>Carnatic music revealed itself slowly, with its combination of <i>sruti</i> (tonal centre), <i>svara</i> (melodic motion), <i>raaga</i> \
+        (melodic framework), and <i>tala</i> (rhythmic structure). These weren’t just technical elements; they were scaffolding for emotion. Even within their structure, \
         there was space, generous space, for improvisation, for breath, for the unexpected.</p>\
         <p>I borrowed gently. I do not claim to recreate, only to reflect. I used the violin for swift, bright flourishes, echoes \
         of its role in South Indian performance, where it sometimes replaces the voice itself. I sang into the microphone, \
@@ -332,7 +332,7 @@ const media = [
       description: '<p>I try to imagine Achiamma’s voice, not how she spoke, but how she might \
       have sung when no one was listening. Raw, unadorned, rising from the body like a memory that refuses to fade. I have \
       never heard her sing, yet something in my own voice feels shaped by hers, as if timbre can be passed down like \
-      DNA-vibrations.</p>\
+      DNA vibrations.</p>\
       <p>By reshaping my voice, I attempt to invoke, to let her presence echo through mine. \
       It is not a perfect reconstruction, but a felt one. The breath, the tremble, the imperfection: these are the places \
       where our connection comes to life.</p>\
@@ -344,14 +344,14 @@ const media = [
       caption: "Two Strings Wrapped",
       description: '<p>Two Strings Wrapped is an instrument I built in an attempt to touch the sound-world of South India in an act \
       of listening through making. I was drawn to the textures of traditional string instruments from the region: the way they \
-      sing, hum, and sometimes whisper. Their resonance feels ancient, full of dust and sunlight, full of breath. </p>\
+      sing, hum, and sometimes whisper. Their resonance feels ancient, full of dust, of sunlight, of breath. </p>\
       <p>This instrument began as a gesture, a reaching towards sounds. I wrapped two strings across nails and wood, \
       tuning not only for pitch but for tension, fragility, and the space between tones. It’s a simple construction, \
       but the sounds it produces carry weight. Grainy, uneven, imperfect, qualities I find most alive in the \
       instruments that inspire me.</p>\
       <p>What emerged wasn’t a replica, but a translation. Something born from memory, imagination, and desire. A \
       conversation between past and present, tradition and invention.</p>\
-      When I play it, I feel closer to something I can’t name, perhaps a place, perhaps a person. Perhaps just a sound\
+      <p>When I play it, I feel closer to something I can’t name, perhaps a place, perhaps a person. Perhaps just a sound\
       that was waiting to be found.</p>'
   },
   {
@@ -360,7 +360,7 @@ const media = [
       caption: "What I don't know",
       description: '<br/><p>I don\'t know your name.</p>\
       <p>I don\'t know the name of the place where you were born.</p>\
-      <p>I don\'t how you spent your days.</p>\
+      <p>I don\'t know how you spent your days.</p>\
       <p>I don\'t know what your favourite colour was.</p>\
       <p>I don\'t know how you liked your tea.</p>\
       <p>I don\'t know what it meant to be you.</p>'
@@ -374,7 +374,7 @@ const media = [
       <p>This is a piano composition based on a Sinhala song my father sang to me when I was little. I wonder if you knew it too, \
       if, perhaps, when I was in Sri Lanka, barely a breath old, you hummed it softly to lull me to sleep. \
       I wrote the score from memory, let it unfold through improvisation, and wove in a second voice.\
-      I don’t know if I got it right, I only know that it felt like a way to find you.<p>'
+      I don’t know if I got it right, I only know that it felt like a way to find you.</p>'
   },
   {
       type: "text",
@@ -386,40 +386,35 @@ const media = [
       type: "image",
       src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/06/20250504_1406312.jpg",
       caption: "A Note About Up-Country Tamils",
-      description: '<p>In Sri Lanka, approximately 4.2% of the population consists of Indian Tamils, commonly referred to as \
-      <i>Up-Country Tamils</i>. This ethnic group was brought to Sri Lanka by the British between the early 19th and 20th centuries \
-      to work first on coffee and later on tea plantations. These individuals primarily originated from lower casts in \
-      Tamil Nadu, South India.</p>\
-      <p>The British relied on Indian Tamil labour for their tea estates, as the Sinhalese population largely refused to work \
-      under the colonial administration. As a result, Indian Tamils were employed under exploitative conditions, receiving \
-      minimal wages. Despite their long history in Sri Lanka, they were not granted citizenship or legal documentation until \
-      either 2003 or 2005 (the exact year remains unclear due to discrepancies in various sources). While some Indian Tamils \
-      returned to India after Sri Lanka gained independence in 1948, many remained and continued working in the tea estates.\
-      Indian Tamils are considered one of the most marginalised communities in Sri Lanka. The majority of tea pickers are women, \
-      who begin working at an early age, typically between 12 and 14 years old. Their wages are extremely low, averaging \
-      approximately €2 per day. Working conditions are harsh, as the tea plantations are located in mountain regions with cold \
-      temperatures, high humidity, and heavy rainfall. There is no heating infrastructure available and the quality of \
-      housing is extremely low despite these harsh conditions. Furthermore, their income is constrained by the availability \
-      of mature tea leaves, meaning they cannot increase their earnings through additional labour.</p>\
-      <p>The Indian Tamil community in Sri Lanka has the highest poverty rate in the country, with many individuals struggling \
-      to meet basic nutritional needs. They reside in <i>line rooms</i>, which are long, barrack-style buildings where \
-      entire families occupy single-room living spaces. Literacy rates within this community are significantly lower than \
-      the national average, despite Sri Lanka being recognised for its high literacy rate. The lack of qualified teachers \
-      in their schools exacerbates this issue, and many children, particularly girls, discontinue their education early to \
-      begin working in the tea estates.</p>\
-      <p>Social challenges within the Indian Tamil community include widespread alcoholism, particularly among men, as well as \
-      high rates of domestic violence and sexual abuse, with women being the primary victims. The persistently poor living and \
-      working conditions of this community have remained largely unchanged over the years, despite hopes for improvement.</p>'
+      description: '<p>In Sri Lanka, approximately 4.2% of the population consists of Indian Tamils, often referred to as \
+        <i>Up-Country Tamils</i>. This ethnic group was brought to Sri Lanka by the British between the early 19th and 20th centuries \
+        to work first on coffee and later tea plantations. Most originated from lower castes in Tamil Nadu, South India.</p>\
+        <p>The British relied on Indian Tamil labour for their estates, as the Sinhalese population largely refused to work \
+        under colonial conditions. Indian Tamils were employed in exploitative circumstances, receiving minimal wages and harsh treatment. \
+        Despite their long history in Sri Lanka, they were denied citizenship and legal documentation until as late as 2003 or 2005 \
+        (sources vary on the exact date). While some returned to India after Sri Lanka gained independence in 1948, many remained and \
+        continued to work on tea plantations. Indian Tamils are among the most marginalised communities in the country.</p>\
+        <p>The majority of tea pickers are women, who typically begin working between the ages of 12 and 14. Wages remain extremely low, \
+        averaging around €2 per day. Working conditions are harsh, as plantations are located in cold, humid mountain regions with \
+        frequent rainfall. Housing is poor, and there is no heating infrastructure despite the challenging climate. Moreover, income is \
+        limited by the seasonal availability of mature tea leaves, making it difficult to earn more through additional labour.</p>\
+        <p>This community has the highest poverty rate in Sri Lanka, with many families struggling to meet basic nutritional needs. \
+        Most live in <i>line rooms</i>—long, barrack-style buildings where entire families share a single room. Literacy rates are \
+        significantly below the national average, which is otherwise high. A shortage of qualified teachers in local schools contributes \
+        to this gap, and many children—particularly girls—drop out early to join the labour force.</p>\
+        <p>Social challenges include widespread alcoholism, especially among men, and high rates of domestic and sexual violence, \
+        with women disproportionately affected. Despite decades of struggle and visibility efforts, the living and working conditions \
+        of this community remain largely unchanged.</p>'
   },
 
   {
   type: "gallery",
   caption: "Window Hill Country",
   description: "<p>These images were taken from my bedroom window while I was sick with a middle ear infection. My hearing was \
-  distorted, my balance fragile. I could not walk far, so I began to layer what I could see, mountains, clouds, rooftops, into into an \
+  distorted, my balance fragile. I could not walk far, so I began to layer what I could see, mountains, clouds, rooftops, into an \
   imagined landscape. Slowly, the view began to resemble the hill country of Sri Lanka, where my grandmother Achiamma once lived.</p>\
   <p>This is not a literal reconstruction, but a felt one. Through the act of layering, I created a terrain that my body could \
-  only reach through. Each frame becomes part echo, part invention. The mist is real. So is the longing. The result is a \
+  only reach through imagination. Each frame becomes part echo, part invention. The mist is real. So is the longing. The result is a \
   personal topography of illness, diaspora, and reverence, anchored in stillness, altered by inner movement.</p>",
   galleryImages: [
     "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/06/20250504_1406312.jpg",
@@ -435,46 +430,47 @@ const media = [
   type: "text",
   caption: "Home",
   description: '<p>Daheim<br/>\
-      Zuhause<br/>\
-      La maison<br/>\
-      ගෙදර<br/>\
-      บ้าน</p>\
-      <p>வீடு</p>\
-      <p>Das Wort in meinem Mund,<br/>\
-      es schmeckt nach nichts,<br/>\
-      eine leere Hülle.<br/>\
-      Ohne Inhalt.</p>\
-      <p>Sometimes I have no concept<br/>\
-      of home<br/>\
-      But I know what home is<br/>\
-      supposed to be</p>\
-      <p>Safe<br/>\
-      Secure<br/>\
-      Comforting</p>\
-      <p>Daheim ist, wo ich sein darf, wie ich bin.<br/>\
-      Ohne Maske.<br/>\
-      Verletzlich.<br/>\
-      Ich.</p>\
-      <p>Daheim ist, wo ich Fehler machen kann,<br/>\
-      ohne Angst zu versagen.</p>\
-      <p>Daheim ist, wo ich die Pyjamaprinzessin bin.</p>\
-      <p>Daheim ist, wo ich mich geborgen fühle.</p>\
-      <p>Home is not a place<br/>\
-      It’s a feeling.</p>\
-      <p>A feeling I long for and doubt it exists.</p>\
-      <p>Sometimes home feels incredibly close,<br/>\
-      sometimes far away like a distant relative<br/>\
-      And sometimes I think:</p>\
-      <p><i>Home is just a cheesy TV advert.</i></p>\
-      <p>Living in a place and feeling like I don\'t belong<br/>\
-      Tastes of</p>\
-      <p>Loneliness<br/>\
-      Sadness<br/>\
-      Grief</p>\
-      <p>And where loneliness prevails,<br/>\
-      a hand reaching out<br/>\
-      Can feel like</p>\
-      <p>Home</p>'
+    Zuhause<br/>\
+    La maison<br/>\
+    ගෙදර<br/>\
+    บ้าน</p>\
+    <p>வீடு</p>\
+    <p>Das Wort in meinem Mund,<br/>\
+    es schmeckt nach nichts,<br/>\
+    eine leere Hülle.<br/>\
+    Ohne Inhalt.</p>\
+    <p>Sometimes I have no concept<br/>\
+    of home.<br/>\
+    But I know what home is<br/>\
+    supposed to be.</p>\
+    <p>Safe.<br/>\
+    Secure.<br/>\
+    Comforting.</p>\
+    <p>Daheim ist, wo ich sein darf, wie ich bin.<br/>\
+    Ohne Maske.<br/>\
+    Verletzlich.<br/>\
+    Ich.</p>\
+    <p>Daheim ist, wo ich Fehler machen kann,<br/>\
+    ohne Angst zu versagen.</p>\
+    <p>Daheim ist, wo ich die Pyjamaprinzessin bin.</p>\
+    <p>Daheim ist, wo ich mich geborgen fühle.</p>\
+    <p>Home is not a place—<br/>\
+    It’s a feeling.</p>\
+    <p>A feeling I long for<br/>\
+    and doubt exists.</p>\
+    <p>Sometimes home feels incredibly close,<br/>\
+    sometimes far away like a distant relative.<br/>\
+    And sometimes I think:</p>\
+    <p><i>Home is just a cheesy TV advert.</i></p>\
+    <p>Living in a place and feeling like I don’t belong<br/>\
+    tastes of</p>\
+    <p>Loneliness.<br/>\
+    Sadness.<br/>\
+    Grief.</p>\
+    <p>And where loneliness prevails,<br/>\
+    a hand reaching out<br/>\
+    can feel like</p>\
+    <p>Home.</p>'
     }
 
 
