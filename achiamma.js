@@ -133,14 +133,14 @@ const media = [
       before it, brush in hand, not to capture a likeness, but to trace a memory I never owned, only inherited.</p>\
       <p>What unfolds is not a portrait, but an invocation. A flicker of film, the scent of roasting curry powder, \
       the ache of a name unspoken. Thirty-nine years after her death, I search for her. Not in photographs or family \
-      stories. I search for what was lost. In the hush in the in-between. In the gap where her face should have been. </p>\
+      stories. I search for what was lost, for what is missing. In the hush, in the in-between. </p>\
       <p>The land my soul calls home is not just terrain, it is wound and wonder: the hill country of Sri Lanka with its\
       tea estates is where my bloodline twists: a planter and a tea picker getting married, a coloniser and a colonised, \
-      my body holding both. \
+      my DNA holding both. \
       My grandfather’s beagles roam celluloid forests. My grandmother’s hands, swift and weathered, remain unseen. Her \
       labour filled the empire’s porcelain cups, but history left her without a name. </p> \
       <p>This opening act is a reckoning, through pigment, breath, and silence. A ritual return to the plantation’s shadows, \
-      to the tangled rootwork of inheritance. To speak of love, violence, longing, and lineage in one gesture. A home far \
+      to the tangled rootwork of inheritance. Speaking of love, violence, longing, and lineage in one gesture. A home far \
       away from home. A past that refuses to rest.</p>'
   },
 
@@ -174,11 +174,10 @@ const media = [
       fingers, my hands, my body. A silent attempt to make contact.</p>\
       <p>The painting has dried, but the bond has not.</p>\
       <p>Six weeks passed before the surface set, before I dared to touch what I had made. And now, I notice. I see you. \
-      Not from memory, but from knowing. From knowing what smoke, time, and open \
-      fire do to the women who cook every day in their lives.</p>\
-      <p>There is a gentleness in your gaze that I did not intend, but need. I need you to be soft with me while I \
-      heal the roots that ache beneath my skin. The wounds I inherited. The hunger I can’t name.</p>\
-      <p>So I invite you in, not as ancestor, not as myth, but as presence. As a companion in the space where memory fails, but \
+      Not from memory, but from knowing. It\'s a kind of knowing that emerges from within me.</p>\
+      <p>There is a gentleness in your gaze that I did not intend, but need. I need you to be gentle while I \
+      heal the roots that ache beneath my skin. The wounds I inherited. The pain I can\'t name.</p>\
+      <p>I invite you in, not as ancestor, not as myth, but as presence. As a companion in the space where memory fails, but \
       love still asks to be held.</p>\
       <p>Somewhere, just beyond the painting, your voice begins to sing.</p>\
       <p>And then, it fades.</p>'
@@ -195,7 +194,7 @@ const media = [
       Over this colonial gaze, I place myself as shadowed figures behind a screen. Variations of me. Bodies tracing lines, moving in \
       response. Many selves, flickering in and out of shape. A past performance, drawn from \
       my personal archive, becomes a form of presence I could not offer live because my hearing would not let me. Because music has become painful to my ears.</p>\
-      <p>The screen becomes palimpsest. Archive and performance, empire and echo, intention and interference. My body interrupts \
+      <p>The screen is a palimpsest. Archive and performance, empire and echo, intention and interference. My body interrupts \
       the image, not to reclaim it, but to add to it.</p>\
       <p>The soundtrack carries Achiamma\’s voice, layered with drum rhythms, berimbau and violin. A composition shaped by Carnatic \
       memory, but fractured through distance and diasporic noise. This is not accompaniment. It is counterpoint. A polyphony of \
@@ -405,7 +404,7 @@ const media = [
         significantly below the national average, which is otherwise high. A shortage of qualified teachers in local schools contributes \
         to this gap, and many children - particularly girls - drop out early to join the labour force.</p>\
         <p>Social challenges include widespread alcoholism, especially among men, and high rates of domestic and sexual violence, \
-        with women disproportionately affected. Despite decades of struggle and visibility efforts, the living and working conditions \
+        with children and women disproportionately affected. Despite decades of struggle and visibility efforts, the living and working conditions \
         of this community remain largely unchanged.</p>'
   },
 
@@ -415,7 +414,7 @@ const media = [
   src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2dfe2a8b-72a6-4bc9-b10d-b3200106663b/3337f491-70e0-4e90-9753-b32001066643-cbbcc202-3199-423d-a4a3-b320010703a3.mp4",
   caption: "Window Hill Country",
   description: "<p>These images were taken from my bedroom window in Switzerland while I was sick with a middle ear infection. My hearing was \
-  distorted, my balance fragile. I could not walk far, so I began to layer what I could see: mountains, clouds, rooftops, shaping them into an \
+  distorted, my balance fragile. I could not walk far, so I began to layer what I could see: mountains, clouds, forests, shaping them into an \
   imagined landscape. Slowly, the view began to resemble the hill country of Sri Lanka, where Achiamma once lived.</p>\
   <p>This is not a literal reconstruction, but a felt one. Through the act of layering, I created a terrain that my body could \
   only reach through imagination. Each frame becomes part echo, part invention. The mist is real. So is the longing. The result is a \
@@ -450,14 +449,14 @@ const media = [
     ohne Angst zu versagen.</p>\
     <p>Daheim ist, wo ich die Pyjamaprinzessin bin.</p>\
     <p>Daheim ist, wo ich mich geborgen fühle.</p>\
-    <p>Home is not a place—<br/>\
-    It’s a feeling.</p>\
+    <p>Home is not a place, <br/>\
+    it’s a feeling.</p>\
     <p>A feeling I long for<br/>\
-    and doubt exists.</p>\
+    and doubt it exists.</p>\
     <p>Sometimes home feels incredibly close,<br/>\
     sometimes far away like a distant relative.<br/>\
     And sometimes I think:</p>\
-    <p><i>Home is just a cheesy TV advert.</i></p>\
+    <p><i>Home is just a cheesy TV advert.</i></p><br/>\
     <p>Living in a place and feeling like I don\’t belong<br/>\
     tastes of</p>\
     <p>Loneliness.<br/>\
