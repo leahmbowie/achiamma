@@ -386,15 +386,15 @@ const media = [
   {
       type: "image",
       src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/06/20250504_1406312.jpg",
-      caption: "A Note About Up-Country Tamils",
-      description: '<p>In Sri Lanka, approximately 4.2% of the population consists of Indian Tamils, often referred to as \
+      caption: "A Note About Malaiyaha Tamils",
+      description: '<p>In Sri Lanka, approximately 4.2% of the population consists of Malaiyaha Tamils, sometimes referred to as \
         <i>Up-Country Tamils</i>. This ethnic group was brought to Sri Lanka by the British between the 19th and early 20th centuries \
         to work first on coffee and later tea plantations. Most originated from lower castes in Tamil Nadu, South India.</p>\
-        <p>The British relied on Indian Tamil labour for their estates, as the Sinhalese population largely refused to work \
-        under colonial conditions. Indian Tamils were employed in exploitative circumstances, receiving minimal wages and harsh treatment. \
+        <p>The British relied on Malaiyaha Tamil labour for their estates, as the Sinhalese population largely refused to work \
+        under colonial conditions. Malaiyaha Tamils were employed in exploitative circumstances, receiving minimal wages and harsh treatment. \
         Despite their long history in Sri Lanka, they were denied citizenship and legal documentation until as late as 2003 or 2005 \
         (sources vary on the exact date). While some returned to India after Sri Lanka gained independence in 1948, many remained and \
-        continued to work on tea plantations. Indian Tamils are among the most marginalised communities in the country.</p>\
+        continued to work on tea plantations. Malaiyaha Tamils are among the most marginalised communities in the country.</p>\
         <p>The majority of tea pickers are women, who typically begin working between the ages of 12 and 14. Wages remain extremely low, \
         averaging around €2 per day. Working conditions are harsh, as plantations are located in cold, humid mountain regions with \
         frequent rainfall. Housing is poor, and there is no heating infrastructure despite the challenging climate. Moreover, income is \
