@@ -152,7 +152,7 @@ const media = [
 
   {
       type: "video",
-      embed: "true", 
+      embed: true, 
       //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/583afc8b-eefc-4e67-9efc-b2fd00f0ea8d/62af4fd5-f246-4523-b8a7-b2fd00f0ea96-440efa88-c35b-4946-b44c-b2fe0104b724.mp4",
       src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/6baefdcf421d5d832ba5455a6608ef6d/iframe",
       caption: "Achiamma Film Scene 2 - Re-Creation",
