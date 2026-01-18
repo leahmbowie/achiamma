@@ -435,7 +435,8 @@ const media = [
 
   {
   type: "video",
-  hotspot: true,
+  //hotspot: true,
+  embed: true,
   //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2dfe2a8b-72a6-4bc9-b10d-b3200106663b/3337f491-70e0-4e90-9753-b32001066643-cbbcc202-3199-423d-a4a3-b320010703a3.mp4",
   src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/75afb675fa22a5bc349c01a30da5faf1/iframe",
   caption: "Window Hill Country",
