@@ -76,7 +76,8 @@ document.getElementById('about-leah').addEventListener('click', (e) => {
 const media = [
   {
       type: "image",
-      src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/6017/2025/01/PICT0130-scaled.jpg",
+      //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/6017/2025/01/PICT0130-scaled.jpg",
+      src: "https://imagedelivery.net/IQZYF0rfxQS1PTCeW-A-Gg/98e6f11f-a1b9-4d7e-2d23-e4a17563e700/public",
       caption: "1982: Me and Achiamma",
       description: `<p>This is the only known picture of Achiamma and me. I was two years old. We are sitting on
       the veranda of her home in Sri Lanka. I don’t remember this moment, not the texture of her sari, the smell of the morning,
@@ -90,7 +91,8 @@ const media = [
   },
   {
       type: "image",
-      src: "  https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Picsart_25-05-15_20-39-06-0274.jpg",
+      //src: "  https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Picsart_25-05-15_20-39-06-0274.jpg",
+      src: "https://imagedelivery.net/IQZYF0rfxQS1PTCeW-A-Gg/013e4bca-5907-4beb-8e82-0a1cd2e0fc00/public",
       caption: "Glossary for a Language Never Learned",
       description: '<p>identity (noun)<br/>\
           1. a skin to slide into before breakfast<br/>\
@@ -111,7 +113,8 @@ const media = [
   },
   {
       type: "image",
-      src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Picsart_25-05-05_15-20-31-651.jpg",
+      //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Picsart_25-05-05_15-20-31-651.jpg",
+      src: "https://imagedelivery.net/IQZYF0rfxQS1PTCeW-A-Gg/39931c29-fcbc-4820-d380-fea02299ba00/public",
       caption: "Dialogue",
       description: '<p>என் பெயர்...<br/>\
           Wer bist du?<br/>\
@@ -386,7 +389,8 @@ const media = [
 
   {
       type: "image",
-      src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/06/20250504_1406312.jpg",
+      //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/06/20250504_1406312.jpg",
+      src: "https://imagedelivery.net/IQZYF0rfxQS1PTCeW-A-Gg/1882ca43-4fc0-4f9d-6e97-beea0afb4500/public",
       caption: "A Note About Malaiyaha Tamils",
       description: '<p>In Sri Lanka, approximately 4.2% of the population consists of Malaiyaha Tamils, sometimes referred to as \
         <i>Up-Country Tamils</i>. This ethnic group was brought to Sri Lanka by the British between the 19th and early 20th centuries \
