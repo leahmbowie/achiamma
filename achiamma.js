@@ -131,7 +131,6 @@ const media = [
 
   {
       type: "video",
-      hotspot: true,
       embed: true,
       //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ae6d773f-fd9f-4ee6-ac0d-b2fd00ee47e6/720c6ed4-e3fa-4384-99a9-b2fd00ee47ef-ac9c4d27-88c3-4e8c-ade4-b2fe01045f29.mp4",
       src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/fbcbf43de4c0ca1605959a93df8d37b3/iframe",
@@ -153,7 +152,9 @@ const media = [
 
   {
       type: "video",
-      src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/583afc8b-eefc-4e67-9efc-b2fd00f0ea8d/62af4fd5-f246-4523-b8a7-b2fd00f0ea96-440efa88-c35b-4946-b44c-b2fe0104b724.mp4",
+      embed: "true", 
+      //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/583afc8b-eefc-4e67-9efc-b2fd00f0ea8d/62af4fd5-f246-4523-b8a7-b2fd00f0ea96-440efa88-c35b-4946-b44c-b2fe0104b724.mp4",
+      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/6baefdcf421d5d832ba5455a6608ef6d/iframe",
       caption: "Achiamma Film Scene 2 - Re-Creation",
       description: '<p>The second scene of Achiamma unfolds in a blur of focus, of memory, of recognition delayed. I am painting \
       again, but doubt begins to seep through the bristles.</p>\
@@ -174,7 +175,9 @@ const media = [
 
   {
       type: "video",
-      src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/15bba83b-1f61-402a-91f8-b2fd00f2ca72/514b5327-0509-48b3-a163-b2fd00f2ca77-f4b463e2-7362-4065-98ac-b2fe01079dc2.mp4",
+      embed: true,
+      //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/15bba83b-1f61-402a-91f8-b2fd00f2ca72/514b5327-0509-48b3-a163-b2fd00f2ca77-f4b463e2-7362-4065-98ac-b2fe01079dc2.mp4",
+      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/13342e8c2f27c97f3c1d6299336c1d1d/iframe",
       caption: "Achiamma Film Scene 3 - Memories. Embodied.",
       description: '<p>The third scene of Achiamma lingers in stillness. My face is blurred to soften the distance \
       between us. I stand before the canvas, tracing your contours, not with paint this time, but with my \
@@ -192,7 +195,9 @@ const media = [
 
   {
       type: "video",
-      src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7a66d3ad-2769-4fa2-8ffb-b2fd00f4601d/8ca0a806-4112-443f-81af-b2fd00f46024-6ae5ef49-d346-4fdb-8fd1-b2fe0104cf9e.mp4",
+      embed: true,
+      //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/7a66d3ad-2769-4fa2-8ffb-b2fd00f4601d/8ca0a806-4112-443f-81af-b2fd00f46024-6ae5ef49-d346-4fdb-8fd1-b2fe0104cf9e.mp4",
+      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/15b1765b90d4b71910a17ac416bc90ae/iframe",
       caption: "Achiamma Film Scene 5 (by Alan and Leah Muriel Bowie)",
       description: '<p>The fifth scene of Achiamma is a crossing of timelines, a layered choreography of inheritance and loss,\
       projected across decades. My grandfather\’s film footage, shot between 1930 and 1960 shows animals moving through the lens of the empire: \
@@ -213,7 +218,9 @@ const media = [
 
   {
       type: "video",
-      src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ca4c088a-f060-4303-8088-b284013e3cf7/c1d16c25-e111-4363-94b9-b284013e3d03-cd0b4398-3b66-4ec4-877b-b2e40126735d.mp4",
+      embed: true,
+      //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ca4c088a-f060-4303-8088-b284013e3cf7/c1d16c25-e111-4363-94b9-b284013e3d03-cd0b4398-3b66-4ec4-877b-b2e40126735d.mp4",
+      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/3c0baf3a7ce66a9c025fb51a711998a7/iframe",
       caption: "Connect, connect, connect",
       description: '<p>This is a meditation on connection across time, memory, and lineage. In this fragment, \
       strands of hair grow from my head towards Achiamma. Delicate yet persistent threads that bind us. \
@@ -224,7 +231,10 @@ const media = [
 
   {
       type: "video",
-      src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9e6711dd-80ab-4781-a505-b27e01520874/e46afa96-101d-44ce-b8c7-b27e01520880-c8646bda-c0ad-4a2b-8d19-b2e4010dce3d.mp4",
+      embed: true,
+      hotspot: true,
+      //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9e6711dd-80ab-4781-a505-b27e01520874/e46afa96-101d-44ce-b8c7-b27e01520880-c8646bda-c0ad-4a2b-8d19-b2e4010dce3d.mp4",
+      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/b078cf7695d00b8a9882094802973c87/iframe",
       caption: "Lineage",
       description: '<p>My lineage is filled<br/>\
         with inner landscapes.</p>\
@@ -249,7 +259,9 @@ const media = [
           },
   {
       type: "video",
-      src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b4d1324f-59e4-4def-b93d-b1ad00e01416/a6201a47-acab-4145-b502-b1ad00e01421-99f4f54b-dd9d-4bda-b009-b2e40111f1c6.mp4",
+      embed: true,
+      //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/b4d1324f-59e4-4def-b93d-b1ad00e01416/a6201a47-acab-4145-b502-b1ad00e01421-99f4f54b-dd9d-4bda-b009-b2e40111f1c6.mp4",
+      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/0e1696bec492b79e2ffcc6931f313af8/iframe",
       caption: "Lines: A Performance",
       description: '<p>\
       My shadow becomes a witness.<br/>\
@@ -287,7 +299,7 @@ const media = [
       a body trying to remember.</p>'
   },
 
-  {
+  /*{
       type: "video",
       src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/58eb429f-78e7-42e1-8e04-b1fb012e5901/07761950-6cb6-415f-b3ae-b1fb012e590a-b4f22db0-37ca-45aa-9b26-b2e40127829a.mp4",
       caption: "Questions",
@@ -308,7 +320,7 @@ const media = [
         <p>This video invites you to listen.</p>\
         <p>To notice which questions speak to you, which ones provoke, and which ones remain unanswered.</p>\
         <p>It is an offering, not of clarity, but of connection.</p>'
-  },
+  },*/
   {
       type: "audio",
       //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/6017/2025/02/Achiamma_P1.mp3",
@@ -423,8 +435,9 @@ const media = [
 
   {
   type: "video",
-  //hotspot: true,
-  src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2dfe2a8b-72a6-4bc9-b10d-b3200106663b/3337f491-70e0-4e90-9753-b32001066643-cbbcc202-3199-423d-a4a3-b320010703a3.mp4",
+  hotspot: true,
+  //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/2dfe2a8b-72a6-4bc9-b10d-b3200106663b/3337f491-70e0-4e90-9753-b32001066643-cbbcc202-3199-423d-a4a3-b320010703a3.mp4",
+  src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/75afb675fa22a5bc349c01a30da5faf1/iframe",
   caption: "Window Hill Country",
   description: "<p>These images were taken from my bedroom window in Switzerland while I was sick with a middle ear infection. My hearing was \
   distorted, my balance fragile. I could not walk far, so I began to layer what I could see: mountains, clouds, forests, shaping them into an \
