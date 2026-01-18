@@ -232,7 +232,7 @@ const media = [
   {
       type: "video",
       embed: true,
-      hotspot: true,
+      //hotspot: true,
       //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/9e6711dd-80ab-4781-a505-b27e01520874/e46afa96-101d-44ce-b8c7-b27e01520880-c8646bda-c0ad-4a2b-8d19-b2e4010dce3d.mp4",
       src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/b078cf7695d00b8a9882094802973c87/iframe",
       caption: "Lineage",
