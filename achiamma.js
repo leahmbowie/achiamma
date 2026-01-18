@@ -131,8 +131,9 @@ const media = [
 
   {
       type: "video",
+      embed: true,
       //src: "https://d2hpwsdp0ihr0w.cloudfront.net/sessions/ae6d773f-fd9f-4ee6-ac0d-b2fd00ee47e6/720c6ed4-e3fa-4384-99a9-b2fd00ee47ef-ac9c4d27-88c3-4e8c-ade4-b2fe01045f29.mp4",
-      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/fbcbf43de4c0ca1605959a93df8d37b3/watch",
+      src: "https://customer-aygqk36gwfkjjx2a.cloudflarestream.com/fbcbf43de4c0ca1605959a93df8d37b3/iframe",
       caption: "Achiamma Film: Scene 1 - A Blank Canvas",
       description: '<p>The first scene of Achiamma begins with a canvas and the act of painting. I stand \
       before it, brush in hand, not to capture a likeness, but to trace a memory I never owned, only inherited.</p>\
