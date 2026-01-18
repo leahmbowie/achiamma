@@ -1,6 +1,7 @@
 const about_content =
   {
-    src: 'https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Picsart_25-05-16_12-48-02-0662.jpg',
+    //src: 'https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Picsart_25-05-16_12-48-02-0662.jpg',
+    src:'https://drive.usercontent.google.com/download?id=1_SUjiDkg35sBdrvpoXhnbkQ1SATJ_Ozb&export=view',
     caption: "A Map of Lineage: A Memory, an Echo, a Fragment",
     description: '<p>This project began as a film. It was meant to trace the story of Achiamma, my Sri Lankan grandmother, \
       whom I met only once when I was two years old. But as I developed the film, I realised the story resists clarity. My \
