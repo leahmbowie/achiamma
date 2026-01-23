@@ -324,7 +324,7 @@ const media = [
   {
       type: "audio",
       //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/6017/2025/02/Achiamma_P1.mp3",
-      src: "https://lmbowie.net/Achiamma_P1.mp3",
+      src: "https://lmbowie.net/achiamma/Achiamma_P1.mp3",
       caption: "Achiamma Theme Song",
       description: '<p>This piece began as a question, a quiet reaching across time toward Achiamma. \
         I never knew what music she truly loved, but I imagined her sitting still, listening to the soft curl of Tamil \
@@ -350,7 +350,7 @@ const media = [
   {
       type: "audio",
       //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Indian_Singing.mp3",
-      src: "https://lmbowie.net/Indian_Singing.mp3",
+      src: "https://lmbowie.net/achiamma/Indian_Singing.mp3",
       caption: "Achiamma's Voice",
       description: '<p>I try to imagine Achiamma\’s voice, not how she spoke, but how she might \
       have sung when no one was listening. Raw, unadorned, rising from the body like a memory that refuses to fade. I have \
@@ -364,7 +364,7 @@ const media = [
   {
       type: "audio",
       //src: "  https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Achiamma_Two_Strings_Wrapped_Sound.mp3",
-      src: "https://lmbowie.net/Achiamma_Two_Strings_Wrapped_Sound.mp3",
+      src: "https://lmbowie.net/achiamma/Achiamma_Two_Strings_Wrapped_Sound.mp3",
       caption: "Two Strings Wrapped",
       description: '<p>Two Strings Wrapped is an instrument I built in an attempt to touch the sound-world of South India in an act \
       of listening through making. I was drawn to the textures of traditional string instruments from the region: the way they \
@@ -381,7 +381,7 @@ const media = [
   {
       type: "audio",
       //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/What-I-dont-know.mp3",
-      src: "https://lmbowie.net/What-I-dont-know.mp3",
+      src: "https://lmbowie.net/achiamma/What-I-dont-know.mp3",
       caption: "What I don't know",
       description: '<br/><p>I don\'t know your name.</p>\
       <p>I don\'t know the name of the place where you were born.</p>\
@@ -393,7 +393,7 @@ const media = [
   {
       type: "audio",
       //src: "https://oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/7050/2025/05/Meh-Gassee_two-voices.mp3",
-      src : "https://lmbowie.net/Meh-Gassee_two-voices.mp3",  
+      src : "https://lmbowie.net/achiamma/Meh-Gassee_two-voices.mp3",  
       caption: "මේ ගස් බොහො",
       description: '<p>මේ ගස් බොහො, මල් පිපි තිබේ, පටේ පටේ මල්, හැරිම ලස්සනයි</p>\
       <p>This is a piano composition based on a Sinhala song my father sang to me when I was little. I wonder if you knew it too, \
